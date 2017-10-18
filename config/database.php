@@ -5,8 +5,8 @@
 $db_params = array(
 	'servername' => 'localhost',
 	'username' => 'root',
-	'password' => '',
-	'dbname' => 'test'
+	'password' => 'root@lamp',
+	'dbname' => 'forum'
 
 );
 
