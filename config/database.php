@@ -1,7 +1,4 @@
 <?php 
-
-
-
 $db_params = array(
 	'servername' => 'localhost',
 	'username' => 'root',
@@ -9,6 +6,4 @@ $db_params = array(
 	'dbname' => 'forum'
 
 );
-
-
  ?>

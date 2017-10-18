@@ -43,5 +43,4 @@ function main(){
 
 main();
 
-echo " ewe";
 ?>
