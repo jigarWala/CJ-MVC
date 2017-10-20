@@ -6,4 +6,5 @@ $db_params = array(
 	'dbname' => 'forum'
 
 );
+
  ?>

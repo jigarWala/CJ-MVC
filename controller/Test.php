@@ -12,6 +12,7 @@ class Test{
 		$result = $this->test_model->select();
 		while($row = $result->fetch_assoc()){
 			print_r($args);
+
 			echo "<br/>";
 		}
 	}
