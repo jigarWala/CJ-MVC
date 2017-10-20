@@ -2,8 +2,8 @@
 $db_params = array(
 	'servername' => 'localhost',
 	'username' => 'root',
-	'password' => 'root@lamp',
-	'dbname' => 'test_forum'
+	'password' => 'root',
+	'dbname' => 'forum'
 
 );
  ?>
