@@ -1,7 +1,7 @@
 
 -- drops the database ,beware
 
-DROP DATABASE forum ;
+-- DROP DATABASE forum ;
 
 CREATE DATABASE forum; 
 
